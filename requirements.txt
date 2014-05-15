@@ -3,6 +3,7 @@ djangorestframework
 south>=0.8,<2.0
 pillow
 #Optinal
+#optional
 # Optional
 Werkzeug
 django-extensions
